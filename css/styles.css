@@ -139,6 +139,7 @@ a {
   color: #404bbf;
 }
 /* section 1 */
+
 .effective {
   background-color: #2e2f42;
   padding: 188px 0;
@@ -150,6 +151,7 @@ a {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  max-width: 1440px;
 }
 
 .effective-container .effective-title {
@@ -168,6 +170,7 @@ a {
 
 .effective-btn {
   background-color: #4d5ae5;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .effective-btn {
   color: #ffffff;
