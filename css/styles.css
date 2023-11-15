@@ -301,6 +301,12 @@ a {
 .div-person {
   padding: 32px 0;
 }
+
+.team-social-link {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
 /* section 4 */
 .portfolio {
   padding: 120px 0 120px 0;
