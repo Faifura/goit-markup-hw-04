@@ -326,7 +326,10 @@ a {
 .social-icon {
   fill: #f4f4fd;
 }
-
+.team-social-link-color:hover,
+.team-social-link-color:focus {
+  background-color: #404bbf;
+}
 /* section 4 */
 .portfolio {
   padding: 120px 0 120px 0;
