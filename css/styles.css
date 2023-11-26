@@ -446,7 +446,6 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
-  margin-bottom: 16px;
 }
 .footer-link {
   display: flex;
@@ -457,6 +456,9 @@ a {
 .footer-link-item {
   width: 40px;
   height: 40px;
+}
+.footer-social-main-word {
+  margin-bottom: 16px;
 }
 
 .footer-link-media {
