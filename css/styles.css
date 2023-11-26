@@ -436,7 +436,6 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   max-width: 264px;
-  margin-bottom: 16px;
 }
 .footer-social-media {
   font-weight: 500;
@@ -468,5 +467,5 @@ a {
 }
 .footer-link-media:hover,
 .footer-link-media:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
