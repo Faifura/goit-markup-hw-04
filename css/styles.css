@@ -433,6 +433,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   max-width: 264px;
+  margin-bottom: 16px;
 }
 .footer-social-media {
   font-weight: 500;
@@ -441,4 +442,8 @@ a {
   letter-spacing: 0.02em;
   color: #ffffff;
   margin-bottom: 16px;
+}
+.footer-link {
+  display: flex;
+  gap: 16px;
 }
